@@ -1,6 +1,6 @@
 # RN-Restaurant-Rating-App
 
-RN-Restaurant-Rating-App is a mobile application that you can search restaurant by your location. In addition you can categorize restaurants by their prices. **It developed by using React Native (Expo CLI)**. 
+RN-Restaurant-Rating-App is a mobile application that you can search restaurant by your location. In addition you can categorize restaurants by their prices and Yelp rates. **It developed by using React Native (Expo CLI)**. 
 
 ## Getting Started
 
