@@ -21,8 +21,11 @@ const ResultsShowScreen = ({ navigation }) => {
 
   return (
     <View>
-      <Text>{result.name}</Text>
+      <Text style={styles.name}>
+        {result.name} - {result.rating}
+      </Text>
       <FlatList
+        style={styles.list}
         data={result.photos}
         keyExtractor={(photo) => photo}
         renderItem={({ item }) => {
@@ -34,9 +37,19 @@ const ResultsShowScreen = ({ navigation }) => {
 };
 
 const styles = StyleSheet.create({
+  name: {
+    fontSize: 20,
+    fontWeight: "bold",
+    textAlign: "center",
+    marginVertical: 5,
+  },
+  list: {
+    alignSelf: "center",
+  },
   image: {
     width: 300,
     height: 200,
+    margin: 5,
   },
 });
 
