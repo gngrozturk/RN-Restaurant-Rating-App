@@ -2,6 +2,10 @@
 
 RN-Restaurant-Rating-App is a mobile application that you can search restaurant by your location. In addition you can categorize restaurants by their prices and Yelp rates. **It developed by using React Native (Expo CLI)**. 
 
+<p align="center"><img align="center" src="https://github.com/gngrozturk/RN-Restaurant-Rating-App/blob/master/ss/1.jpg" width="300" />   <img align="center" src="https://github.com/gngrozturk/RN-Restaurant-Rating-App/blob/master/ss/3.jpg" width="300" /></p>
+
+<p align="center"><img align="center" src="https://github.com/gngrozturk/RN-Restaurant-Rating-App/blob/master/ss/2.jpg" width="300" />   <img align="center" src="https://github.com/gngrozturk/RN-Restaurant-Rating-App/blob/master/ss/4.jpg" width="300" /></p>
+
 ## Getting Started
 
 In your terminal change into project folder that you created then run:
